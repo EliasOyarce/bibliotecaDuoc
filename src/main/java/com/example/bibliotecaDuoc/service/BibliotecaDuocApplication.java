@@ -1,4 +1,4 @@
-package com.example.bibliotecaDuoc;
+package com.example.bibliotecaDuoc.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
